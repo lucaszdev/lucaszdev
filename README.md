@@ -9,7 +9,7 @@
 Sou um Desenvolvedor Mobile React Native com mais de 2 anos de experiência prática projetando, desenvolvendo e implementando aplicativos e soluções usando uma variedade de tecnologias e linguagens de programação.
 <br />
 
-Atualmente moro em **[Natal, RN.](https://www.google.com/maps/place/Natal,+State+of+Rio+Grande+do+Norte/@-5.7999146,-35.2922847,12z/data=!3m1!4b1!4m5!3m4!1s0x7b3aaac26460531:0x5d8b404cf00fed69!8m2!3d-5.7841695!4d-35.1999708)**
+ Morando em **[Natal, RN.](https://www.google.com/maps/place/Natal,+State+of+Rio+Grande+do+Norte/@-5.7999146,-35.2922847,12z/data=!3m1!4b1!4m5!3m4!1s0x7b3aaac26460531:0x5d8b404cf00fed69!8m2!3d-5.7841695!4d-35.1999708)**
 
 <br />
 Adoro aprender novas tecnologias e usar novas ferramentas.
@@ -46,24 +46,9 @@ Pergunte-me qualquer coisa aqui ou envie-me um e-mail. **[Aqui](https://github.c
 <a margin="10" href="https://reactnative.dev" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react-native"></a>
 <br />
 <br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
-<a margin="10" href="https://svelte.dev" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg" alt="svelte"></a>
-<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="graphql"></a>
-<br />
-<br />
-<a margin="10" href="https://graphcms.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphcms.svg" alt="graphcms"></a>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
-<a margin="10" href="https://www.ruby-lang.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/ruby.svg" alt="ruby"></a>
-<a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a>
-<br />
-<br />
-<a margin="10" href="https://sanity.io" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sanity.svg" alt="sanity"></a>
-<a margin="10" href="https://rubyonrails.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 </div>
