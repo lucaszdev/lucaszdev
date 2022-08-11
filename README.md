@@ -8,6 +8,7 @@
 
 Sou um Desenvolvedor Mobile React Native com mais de 2 anos de experiência prática projetando, desenvolvendo e implementando aplicativos e soluções usando uma variedade de tecnologias e linguagens de programação.
 <br />
+<br />
 
  Morando em **[Natal, RN.](https://www.google.com/maps/place/Natal,+State+of+Rio+Grande+do+Norte/@-5.7999146,-35.2922847,12z/data=!3m1!4b1!4m5!3m4!1s0x7b3aaac26460531:0x5d8b404cf00fed69!8m2!3d-5.7841695!4d-35.1999708)**
 
@@ -21,38 +22,7 @@ Pergunte-me qualquer coisa aqui ou envie-me um e-mail. **[Aqui](https://github.c
 <br />
 <br />
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaszdev&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=6FDA44&icon_color=6FDA44&text_color=FFF&bg_color=000" height="200" alt="LucasZdev Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucaszdev&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=6FDA44&icon_color=6FDA44&text_color=FFF&bg_color=000" height="200" alt="LucasZdev Github Stats">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaszdev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
 <br />
 <br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
-<br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszdev&layout=compact&theme=dark&bg_color=0A0A0A" height="200" alt="LucasZdev Top Languages"/>
-<br />
-<br />
-
-**Happy Coding!** 👨🏻‍💻😎
-
-</div>
-
-<div align="center">
-
-## Tech Stack
-
-<br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://www.typescriptlang.org/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="typescript"></a>
-<a margin="10" href="https://reactnative.dev" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react-native"></a>
-<br />
-<br />
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
-</div>
