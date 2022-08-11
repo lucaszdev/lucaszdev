@@ -22,5 +22,5 @@ Pergunte-me qualquer coisa aqui ou envie-me um e-mail. **[Aqui](https://github.c
 <br />
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucaszdev&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=6FDA44&icon_color=6FDA44&text_color=FFF&bg_color=000" height="200" alt="LucasZdev Github Stats">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaszdev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucaszdev&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=6FDA44&icon_color=6FDA44&text_color=FFF&bg_color=000" height="150" alt="LucasZdev Github Stats">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaszdev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="150" />
