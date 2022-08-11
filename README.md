@@ -17,6 +17,11 @@ Adoro aprender novas tecnologias e usar novas ferramentas.
 <br />
 <br />
 
+<img src="https://github.com/lucaszdev/lucaszdev/blob/main/resume-qrcode.svg" width="100" height="100">
+
+<br />
+<br />
+
 Sinta-se à vontade para clonar/fork projetos, levantar problemas e enviar PRs se achar que algo poderia ser melhor.
 Pergunte-me qualquer coisa aqui ou envie-me um e-mail. **[Aqui](https://github.com/lucaszdev/lucaszdev/issues/new)** ou <a href="mailto:lucasz.dev@gmail.com"><b>Mande-me um email</b></a>.
 <br />
