@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Sou um Desenvolvedor Mobile React Native com mais de 2 anos de experiência prática projetando, desenvolvendo e implementando aplicativos e soluções usando uma variedade de tecnologias e linguagens de programação.
+Sou um Desenvolvedor Mobile React Native com mais de 3 anos de experiência prática projetando, desenvolvendo e implementando aplicativos e soluções usando uma variedade de tecnologias e linguagens de programação.
 <br />
 <br />
 
