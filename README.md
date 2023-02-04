@@ -18,7 +18,7 @@ Adoro aprender novas tecnologias e usar novas ferramentas.
 <br />
 
 Sinta-se à vontade para clonar/fork projetos, levantar problemas e enviar PRs se achar que algo poderia ser melhor.
-Pergunte-me qualquer coisa aqui ou envie-me um e-mail. **[Aqui](https://github.com/lucaszdev/lucaszdev/issues/new)** ou <a href="mailto:lucasz.dev@gmail.com"><b>Mande-me um email</b></a>.
+Pergunte-me qualquer coisa aqui ou envie-me um e-mail. **[Aqui](https://github.com/lucaszdev/lucaszdev/issues/new)** ou <a href="mailto:lucas.lima.tlou@icloud.com"><b>Mande-me um email</b></a>.
 <br />
 <br />
 
