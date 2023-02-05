@@ -1,26 +1,36 @@
-<div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/lucaszdev/lucaszdev/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://www.linkedin.com/in/lucas-lima-6969171ba/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br />
-<br />
 
-Sou um Desenvolvedor Mobile React Native com mais de 3 anos de experiência prática projetando, desenvolvendo e implementando aplicativos e soluções usando uma variedade de tecnologias e linguagens de programação.
-<br />
-<br />
+My name is Lucas Lima. I am a Mobile developer living near Natal, Brazil.
 
- Morando em **[Natal, RN.](https://www.google.com/maps/place/Natal,+State+of+Rio+Grande+do+Norte/@-5.7999146,-35.2922847,12z/data=!3m1!4b1!4m5!3m4!1s0x7b3aaac26460531:0x5d8b404cf00fed69!8m2!3d-5.7841695!4d-35.1999708)**
+## 🛠  Technologies and tools
 
-<br />
-Adoro aprender novas tecnologias e usar novas ferramentas.
-<br />
-<br />
+<a name="learning-now"></a>
 
-Sinta-se à vontade para clonar/fork projetos, levantar problemas e enviar PRs se achar que algo poderia ser melhor.
-Pergunte-me qualquer coisa aqui ou envie-me um e-mail. **[Aqui](https://github.com/lucaszdev/lucaszdev/issues/new)** ou <a href="mailto:lucas.lima.tlou@icloud.com"><b>Mande-me um email</b></a>.
-<br />
-<br />
+[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucaszdev&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=6FDA44&icon_color=6FDA44&text_color=FFF&bg_color=000" height="170" alt="LucasZdev Github Stats">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaszdev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="170" />
+<a name="learning-next"></a>
+## 🔍  Where to find me
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/lucas-lima-6969171ba)
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
